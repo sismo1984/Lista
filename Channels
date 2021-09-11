@@ -3,9 +3,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/360px-Logo_AE_Germany.svg.png" group-title="premium",ae 
 http://iptvhd.club:25461/live/aptvall/G0ncBkNuWo/379_.m3u8?token=e-jPVcx34Tge-t3d4uCbdQ&expires=1631302655 
 #EXTINF:-1 group-title="premium",AXN
-http://iptvhd.club:25461/live/aptvall/G0ncBkNuWo/428_.m3u8?token=xWz6-hO8sOQn8Nk2rIB9hw&expires=1631302655 
+http://iptvhd.club:25461/live/aptvall/G0ncBkNuWo/428_.m3u8?token=xWz6-hO8sOQn8Nk2rIB9hw&expires=1631420402  
 #EXTINF:-1 group-title="premium",COMEDY
-#EXTINF:-1 group-title="premium",comedy http://iptvhd.club:25461/live/aptvall/JGPi4OHvmv/523_.m3u8?token=-rsGtiA2xdmPF8Z4lvduiA&expires=1631420402  
+#EXTINF:-1 group-title="premium",comedy 
+http://iptvhd.club:25461/live/aptvall/JGPi4OHvmv/523_.m3u8?token=-rsGtiA2xdmPF8Z4lvduiA&expires=1631420402  
 #EXTINF:-1 group-title="premium",E 
 http://iptvhd.club:25461/live/aptvall/G0ncBkNuWo/574_.m3u8?token=K7L8GqvrDgytPCZw4WhXGw&expires=1631302656 
 #EXTINF:-1 group-title="premium",FX
